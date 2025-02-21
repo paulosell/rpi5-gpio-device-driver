@@ -1,0 +1,8 @@
+test_gpio
+*.cmd
+*.o
+*.ko
+*.mod
+*.mod.c
+Module.symvers
+modules.order
